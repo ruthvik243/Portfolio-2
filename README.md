@@ -1,2 +1,1 @@
-# Portfolio-2
-This is my portfolio built by me and the information is provided in the folio..
+git clone https://github.com/your-username/portfolio.git
